@@ -10,5 +10,6 @@ This project leverages the yfinance API to pull real-time financial data for NVI
 - **Visualization:** Built a dual-axis line chart comparing the raw closing price against the 20-day trend line to highlight breakout points.
 
 ## 💡 Visual Output
-![NVIDIA Market Trend](nvidia_trend.png)
+## 💡 Visual Output
+![NVIDIA Market Trend](PASTE_THE_LINK_YOU_COPIED_HERE)
 *(Pictured: The NVDA price trend showing the 20-day moving average identifying momentum shifts in late 2025.)*
