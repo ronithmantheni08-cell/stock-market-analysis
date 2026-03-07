@@ -11,5 +11,5 @@ This project leverages the yfinance API to pull real-time financial data for NVI
 
 ## 💡 Visual Output
 
-![NVIDIA Market Trend](<img width="1512" height="982" alt="Screenshot  " src="https://github.com/user-attachments/assets/75e36260-9fb4-409a-96f7-6a7724d06e4b" />)
+![NVIDIA Market Trend](" src="https://github.com/user-attachments/assets/75e36260-9fb4-409a-96f7-6a7724d06e4b" />)
 *(Pictured: The NVDA price trend showing the 20-day moving average identifying momentum shifts in late 2025.)*
